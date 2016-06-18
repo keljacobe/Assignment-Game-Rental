@@ -1,0 +1,12 @@
+PS4,Until Dawn,2015,Sony Computer Entertainment,15,10,PSMove
+PS4,The Last of Us,2014,Sony Computer Entertainment,20,10,None
+PS4,Watch Dogs,2014,Ubisoft,20,10,None
+PS4,Call of Duty Ghosts,2013,Activision,15,8,None
+XBONE,Killer Instinct,2013,Microsoft Studios,10,15,Kinect
+XBONE,Kinect Sports Rivals,2014,Microsoft Studios,10,15,Kinect
+XBONE,Alien: Isolation,2014,SEGA,15,10,None
+XBONE,Assassin's Creed Unity,2014,Ubisoft,15,15,None
+WIIU,Darksiders II,2012,THQ,10,8,None
+WIIU,Rayman Legends,2013,Ubisoft,10,10,GamePad
+WIIU,Nintendo Land,2012,Nintendo,15,10,GamePad
+WIIU,Mario Kart 8,2014,Nintendo,20,10,None

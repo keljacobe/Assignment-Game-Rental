@@ -1,0 +1,41 @@
+D:\BICT\Year 2\Software Process\GameRental\GameRental\bin\Debug\GameRental.exe.config
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.csprojResolveAssemblyReference.cache
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.Form1.resources
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.Properties.Resources.resources
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.csproj.GenerateResource.Cache
+D:\BICT\Year 2\Software Process\GameRental\GameRental\bin\Debug\GameRental.exe
+D:\BICT\Year 2\Software Process\GameRental\GameRental\bin\Debug\GameRental.pdb
+D:\BICT\Year 2\Software Process\GameRental\GameRental\bin\Debug\MySql.Data.dll
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.exe
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.pdb
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.Catalogue.resources
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.NewRent.resources
+D:\BICT\Year 2\Software Process\GameRental\GameRental\obj\Debug\GameRental.Customers.resources
+E:\BICT\Software Process\GameRental\GameRental\bin\Debug\GameRental.exe.config
+E:\BICT\Software Process\GameRental\GameRental\obj\Debug\GameRental.exe
+E:\BICT\Software Process\GameRental\GameRental\obj\Debug\GameRental.pdb
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\bin\Debug\GameRental.exe.config
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.exe
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.pdb
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\bin\Debug\GameRental.exe
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\bin\Debug\GameRental.pdb
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.csprojResolveAssemblyReference.cache
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.Customers.resources
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.Form1.resources
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.Catalogue.resources
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.NewRent.resources
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.Properties.Resources.resources
+\\wservices\labhome\1273840\Desktop\GameRental\GameRental\obj\Debug\GameRental.csproj.GenerateResource.Cache
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\bin\Debug\GameRental.exe.config
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.exe
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.pdb
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\bin\Debug\GameRental.exe
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\bin\Debug\GameRental.pdb
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\bin\Debug\MySql.Data.dll
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.csprojResolveAssemblyReference.cache
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.Customers.resources
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.Form1.resources
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.Catalogue.resources
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.NewRent.resources
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.Properties.Resources.resources
+D:\BICT\Year 2\Software Process\Assignment Game Rental\GameRental\GameRental\obj\Debug\GameRental.csproj.GenerateResource.Cache
